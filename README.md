@@ -29,9 +29,9 @@ Here’s a snapshot of some of the work I’ve led or developed:
 
 | **Tableau Projects**             | **R Projects**                               | **Machine Learning Models Projects**                           |
 |---------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------|
-| [Wayfair case study](https://github.com/choulythy/Wayfair-A-B-Testing-Case)        | Dashboard (Rshiny)            | [Dang Kouv: Peer Tutoring Platform](#)                   |
-| [Olist E-Commerce case study](https://github.com/choulythy/Olist-E-commerce-Case-)               |  (Python & ML)                 | Personalized Learning Recommendation Engine (ongoing)    |
-| [Blue Bike case study](https://github.com/choulythy/Blue-Bike-Case/blob/main/README.md)  | Cambodian High School Insights (Power BI)                   | EdTech Platform Analytics (SQL + Tableau)                | 
+| [Wayfair case study](https://github.com/choulythy/Wayfair-A-B-Testing-Case)        | [Dashboard (Rshiny)](https://github.com/choulythy/Dashboard-Rshiny)            | [Godaddy Survey CART](https://github.com/choulythy/Godaddy-Survey-CART)                   |
+| [Olist E-Commerce case study](https://github.com/choulythy/Olist-E-commerce-Case-)               |                  | [Godaddy Survey Logistic Regression](https://github.com/choulythy/Godaddy-Survey-Logistic-Regression)   |
+| [Blue Bike case study](https://github.com/choulythy/Blue-Bike-Case/blob/main/README.md)  |                   | [Other Models (KNN, Naive Bayes, Clustering)](https://github.com/choulythy/ML-Models)         | 
 | [Dashboard and Stories on Tableau](https://public.tableau.com/views/Homeworkweek12DashboardandStories/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)        |            |                |
 
 
