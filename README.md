@@ -32,7 +32,7 @@ Here’s a snapshot of some of the work I’ve led or developed:
 | [Wayfair case study](https://github.com/choulythy/Wayfair-A-B-Testing-Case)        | Dashboard (Rshiny)            | [Dang Kouv: Peer Tutoring Platform](#)                   |
 | [Olist E-Commerce case study](https://github.com/choulythy/Olist-E-commerce-Case-)               |  (Python & ML)                 | Personalized Learning Recommendation Engine (ongoing)    |
 | [Blue Bike case study](https://github.com/choulythy/Blue-Bike-Case/blob/main/README.md)  | Cambodian High School Insights (Power BI)                   | EdTech Platform Analytics (SQL + Tableau)                | 
-| [Dashboard and Stories on Tableau]([https://github.com/choulythy/Wayfair-A-B-Testing-Case](https://public.tableau.com/views/Homeworkweek12DashboardandStories/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))        |            |                |
+| [Dashboard and Stories on Tableau]([https://github.com/choulythy/Wayfair-A-B-Testing-Case](https://public.tableau.com/views/Homeworkweek12DashboardandStories/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)        |            |                |
 
 
 > 📌 *More projects, datasets, and prototypes coming soon to this repo!*
