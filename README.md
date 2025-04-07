@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Chouly Thy
 
 🎓 **M.S. in Business Analytics Student at Babson College**  
-🌏 **Social Innovator • Educator • Artist • Entrepreneur**
+🌏 **Social Innovator • Creative Problem Solver • Strategist • Entrepreneur**
 
 ---
 
@@ -41,6 +41,6 @@ Here’s a snapshot of some of the work I’ve led or developed:
 
 ## 🌟 Let’s Connect!
 
-- ✉️ **Email**: [your.email@example.com]  
+- ✉️ **Email**: choulythy@gmail.com  
 - 🌐 **LinkedIn**: [linkedin.com/in/chouly-thy](https://www.linkedin.com/in/chouly-thy)  
-- 🧠 **Portfolio Website**: [[choulythy.replit.app](https://choulythy.replit.app/)]  
+- 🧠 **Portfolio Website**: [[choulythy.replit.app](https://choulythy.replit.app/)  
