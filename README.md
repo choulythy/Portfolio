@@ -31,7 +31,7 @@ Here’s a snapshot of some of the work I’ve led or developed:
 |---------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------|
 | [Wayfair case study](https://github.com/choulythy/Wayfair-A-B-Testing-Case)        | Education Outcomes & Equity Dashboard (Tableau)             | [Dang Kouv: Peer Tutoring Platform](#)                   |
 | [Olist E-Commerce case study](https://github.com/choulythy/Olist-E-commerce-Case-)               | Student Performance Predictor (Python & ML)                 | Personalized Learning Recommendation Engine (ongoing)    |
-| Blue Bike case study  | Cambodian High School Insights (Power BI)                   | EdTech Platform Analytics (SQL + Tableau)                |
+| [Blue Bike case study](https://github.com/choulythy/Blue-Bike-Case/blob/main/README.md)  | Cambodian High School Insights (Power BI)                   | EdTech Platform Analytics (SQL + Tableau)                |
 
 > 📌 *More projects, datasets, and prototypes coming soon to this repo!*
 
